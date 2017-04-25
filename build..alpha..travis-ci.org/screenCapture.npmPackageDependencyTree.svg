@@ -26,7 +26,7 @@
 <tspan x="10" y="378">  │ ├─┬ bplist-creator@0.0.7 </tspan>
 <tspan x="10" y="394">  │ │ └── stream-buffers@2.2.0 </tspan>
 <tspan x="10" y="410">  │ ├─┬ bplist-parser@0.1.1 </tspan>
-<tspan x="10" y="426">  │ │ └── big-integer@1.6.21 </tspan>
+<tspan x="10" y="426">  │ │ └── big-integer@1.6.22 </tspan>
 <tspan x="10" y="442">  │ └─┬ plist@2.0.1 </tspan>
 <tspan x="10" y="458">  │   ├── base64-js@1.1.2 </tspan>
 <tspan x="10" y="474">  │   └── xmlbuilder@8.2.2 </tspan>
